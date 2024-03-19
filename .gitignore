@@ -6,3 +6,5 @@ bin/
 docker-compose.yml
 html
 public
+.idea
+.DS_Store
